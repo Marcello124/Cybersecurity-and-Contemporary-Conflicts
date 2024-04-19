@@ -53,12 +53,12 @@ Niektórym może świtać np. taki projekt jak ECHELON
 ---
 ## ECHELON
 
-![](echelon.webp|700)
+![sample text](img/echelon.webp)
 
 ---
 ## NSA
 
-![](nsa.png)
+![sample text](img/nsa.png)
 
 notes:
 No kto by się spodziewał :)
@@ -82,7 +82,7 @@ Oczywiście, żeby śledzić
 ---
 ## ANT Catalog
 
-![](NSA_quantum_cat.jpg|600)
+![sample text](img/NSA_quantum_cat.jpg)
 
 notes:
 Obrazek jest z prezentacji NSA tłumaczącej jak działa projekt QUANTUM
@@ -124,7 +124,7 @@ Ostrzeżenie: zaraz pojawi się dużo czarnej magii
 
 Kernel Ring 0
 
-![](kernel ring.png)
+![sample text](img/kernel ring.png)
 
 notes:
 EternalBlue wykorzystuje Kernel Pool Grooming czyli alokowanie pamięci w ring0 (Kernel mode).
@@ -135,7 +135,7 @@ Kiedy kod znajdujący się w takiej pamięci zostanie uruchomiony to z robi to z
 
 Kernel Memory Pool
 
-![](1.png)
+![sample text](img/1.png)
 
 notes:
 W dużym uproszczeniu:
@@ -143,7 +143,7 @@ W dużym uproszczeniu:
 ---
 ## EternalBlue
 
-![](2.png)
+![sample text](img/2.png)
 
 notes:
 Na początku wysyłane są dane, które są zaalokowane w pamięci Kernela (mechanizmu nie - wytłumaczę, bo nie wiem dlaczego tak). 
@@ -151,7 +151,7 @@ Na początku wysyłane są dane, które są zaalokowane w pamięci Kernela (mech
 ---
 ## EternalBlue
 
-![](3.png)
+![sample text](img/3.png)
 
 notes:
 Pamięć zostaje zwolniona, a zaraz po tym wysyłany jest pakiet SMB. 
@@ -159,7 +159,7 @@ Pamięć zostaje zwolniona, a zaraz po tym wysyłany jest pakiet SMB.
 ---
 ## EternalBlue
 
-![](4.png)
+![sample text](img/4.png)
 
 notes:
 Potem wysyłana jest druga wiadomość SMB o połowę mniejsza, która nadpisuje poprzednią - wiadomość. Z racji tego, że druga wiadomość jest o połowę krótsza, to druga część staje się - dostępna da payloadu. 
@@ -167,7 +167,7 @@ Potem wysyłana jest druga wiadomość SMB o połowę mniejsza, która nadpisuje
 ---
 ## EternalBlue
 
-![](5.png)
+![sample text](img/5.png)
 
 notes:
 Potem wysyłany jest payload w specjalnie przygotowaną pamięć. 
@@ -207,7 +207,7 @@ Jeżeli połącznie nie powiodło się, wirus szyfrował wszystkie pliki na komp
 ---
 ### Ransom
 
-![](wannacry.jpg|700)
+![sample text](img/wannacry.jpg)
 
 notes:
 Po zaszyfrowaniu komputera wyświetlało się okno z żądaniem okupu. 
@@ -217,7 +217,7 @@ Jeśli pieniędzy nie wyślemy w ciągu 3 dni, okup zwiększa się 2 krotnie. Po
 ---
 ### Przykładowe odszyfrowanie
 
-![](wannacry_ransom_note.png|700)
+![sample text](img/wannacry_ransom_note.png)
 
 notes:
 Aby "zakładnicy" uwierzyli, że hakerzy nie kłamią, dało się odszyfrować 10 losowych plików za darmo. To mogło oznaczać, że klucz dało się przechwycić
@@ -235,7 +235,7 @@ Losowe 10 plików było szyfrowane hardcodowanym kluczem RSA, a pozostałe szyfr
 - cwwnhwhlz52maqm7.onion
 
 ---
-![](wannacry schemat.png)
+![sample text](img/wannacry schemat.png)
 
 ---
 ## Przecież to nie powinno działać 🤔
@@ -250,9 +250,9 @@ Atak nastąpił 2 miesiące później
 ---
 ## Adresy Bitcoin
 
-- [13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94](https://blockchain.info/address/13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94)
-- [12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw](https://blockchain.info/address/12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw)
-- [115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn](https://blockchain.info/address/115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn)
+- [13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94](img/https://blockchain.info/address/13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94)
+- [12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw](img/https://blockchain.info/address/12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw)
+- [115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn](img/https://blockchain.info/address/115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn)
 
 notes:
 WannaCry miał generować dla każdego urządzenia, unikalny adres bitcoina na który miał być zapłacony okup. Miało to na celu znaczne utrudnienie w namierzeniu docelowego adresu i monitorowanie transakcji. Jednak bug spowodował, że adresy nie były generowane i deafaultowo pojawiały się te 3 adresy:
@@ -260,14 +260,14 @@ WannaCry miał generować dla każdego urządzenia, unikalny adres bitcoina na k
 ---
 ## Bot na X (Twitter)
 
-![](twitter bot.png)
+![sample text](img/twitter bot.png)
 
 https://twitter.com/actual_ransom
 
 ---
 ## Zarobki
 
-![](bitcoin chart.png|400)
+![sample text](img/bitcoin chart.png|400)
 
 notes:
 To tylko 1 z 3 adresów!!!
@@ -302,7 +302,7 @@ Największym błędem (lub celowym działaniem, specjaliści do dziś się o to 
 
 ### The "Accidental" Hero
 
-![](better marcus.webp|370)
+![sample text](img/better marcus.webp|370)
 
 ---
 ## Kill Switch
@@ -394,7 +394,7 @@ Zanim kompletnie zostanie powstrzymany miną jeszcze długie lata, ponieważ du�
 ---
 ## Straty i zniszczenia
 
-![](WannaCry Map May 12 2017 - April 1 2018.webp|600)
+![sample text](img/WannaCry Map May 12 2017 - April 1 2018.webp|600)
 
 ---
 ## Straty i zniszczenia
@@ -423,7 +423,7 @@ USA oskarżyło Koreę Północną o ten atak, jednak oni się do tego nie przyz
 ---
 ## Warto aktualizować komputery
 
-![](windows update.png)
+![sample text](img/windows update.png)
 
 ---
 ## Dziękuję za uwagę!!!
@@ -431,7 +431,7 @@ USA oskarżyło Koreę Północną o ten atak, jednak oni się do tego nie przyz
 ---
 Prezentacja zostala stworzona za pomocą Obsidian oraz wtyczki Advanced Slides
 
-Inspiracja: [www.youtube.com/c/NoBoilerplate](https://www.youtube.com/c/NoBoilerplate "https://www.youtube.com/c/NoBoilerplate")
+Inspiracja: [www.youtube.com/c/NoBoilerplate](img/https://www.youtube.com/c/NoBoilerplate "https://www.youtube.com/c/NoBoilerplate")
 
 ---
 
