@@ -235,7 +235,7 @@ Losowe 10 plików było szyfrowane hardcodowanym kluczem RSA, a pozostałe szyfr
 - cwwnhwhlz52maqm7.onion
 
 ---
-![sample text](img/wannacry schemat.png)
+![sample text](img/wannacry%20schemat.png)
 
 ---
 ## Przecież to nie powinno działać 🤔
@@ -260,14 +260,14 @@ WannaCry miał generować dla każdego urządzenia, unikalny adres bitcoina na k
 ---
 ## Bot na X (Twitter)
 
-![sample text](img/twitter bot.png)
+![sample text](img/twitter%20bot.png)
 
 https://twitter.com/actual_ransom
 
 ---
 ## Zarobki
 
-![sample text](img/bitcoin chart.png|400)
+![sample text](img/bitcoin%20chart.png)
 
 notes:
 To tylko 1 z 3 adresów!!!
@@ -302,7 +302,7 @@ Największym błędem (lub celowym działaniem, specjaliści do dziś się o to 
 
 ### The "Accidental" Hero
 
-![sample text](img/better marcus.webp|370)
+![sample text](img/better%20marcus.webp)
 
 ---
 ## Kill Switch
@@ -394,7 +394,7 @@ Zanim kompletnie zostanie powstrzymany miną jeszcze długie lata, ponieważ du�
 ---
 ## Straty i zniszczenia
 
-![sample text](img/WannaCry Map May 12 2017 - April 1 2018.webp|600)
+![sample text](img/WannaCry%20Map%20May%2012%202017%20-%20April%201%202018.webp)
 
 ---
 ## Straty i zniszczenia
@@ -423,7 +423,7 @@ USA oskarżyło Koreę Północną o ten atak, jednak oni się do tego nie przyz
 ---
 ## Warto aktualizować komputery
 
-![sample text](img/windows update.png)
+![sample text](img/windows%20update.png)
 
 ---
 ## Dziękuję za uwagę!!!
