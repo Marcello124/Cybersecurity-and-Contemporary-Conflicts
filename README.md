@@ -1,3 +1,3 @@
 # Cybersecurity-and-Contemporary-Conflicts
 
-If you want to see the project either open it in Obsidian or fire up index.html in the export directory
+This is a repository for my project from Cybersecurity and Contemporary Conflicts course at AGH
